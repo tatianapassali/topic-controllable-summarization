@@ -1,3 +1,5 @@
+# Tagging-based formulation
+
 This directory contains code for topic-controllable summarization using a simple tagging-based formulation.
 This method employs a trivial mechanism to shift the summary
 generation towards the desired topic, assuming the
@@ -27,7 +29,7 @@ For more information about run_summarization.py arguments, visit Hugging Face [r
 ### Preprocess the data
 
 To create a tagging-based dataset, you will need a topic-assigned document collection along with a set of most representative terms for each topic.
-You can use the [topic-assigned dataset](data/topic_dataset)  along with the provided [file](data/topic_dataset/topic_seeds.csv) that contains most representative words for each thematic category.
+You can use the topic-assigned dataset along with the provided file that contains most representative words for each thematic category.
 
 First, clone the repository and move to the main directory
 
