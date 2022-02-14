@@ -1,4 +1,4 @@
-# Taggging-based formulation
+# Tagging-based formulation
 
 This directory contains code for topic-controllable summarization using a simple tagging-based formulation.
 This method employs a trivial mechanism to shift the summary
