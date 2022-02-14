@@ -29,7 +29,9 @@ For more information about run_summarization.py arguments, visit Hugging Face [r
 ### Preprocess the data
 
 To create a tagging-based dataset, you will need a topic-assigned document collection along with a set of most representative terms for each topic.
-You can use the [topic-assigned dataset](data/topic_dataset)  along with the provided [file](data/topic_dataset/topic_seeds.csv) that contains most representative words for each thematic category.
+You can use the [topic-assigned dataset](topic-controllable-summarization
+/data/topic_dataset)  along with the provided [file](topic-controllable-summarization
+/data/topic_dataset/topic_seeds.csv) that contains most representative words for each thematic category.
 
 First, clone the repository and move to the main directory
 
