@@ -38,7 +38,7 @@ git clone
 cd topic-controllable-summarization/
 ```
 
-Run the script for creating the tagged data for each file
+Download the data from [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing) and unzip it under the data directory. Then you can run the script for creating the tagged data for each file
 
 ```
 sh methods/tagging-based/tagging_data.sh

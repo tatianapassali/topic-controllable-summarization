@@ -16,6 +16,10 @@ You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/1KOOZj-jp1vLtWc_bzpDzIHacCJnXpNRV?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1na7fVx7o0cuj7GIrmEmaMGcqwSvTyLWV?usp=sharing)
 
+### Get the data 
+
+You can download the topic-assigned dataset based on CNN/DailyMail dataset [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing).
+
 
 ### Generating topic-oriented summaries 
 You can use the fine-tuned tagging-based model to generate topic-oriented summaries.

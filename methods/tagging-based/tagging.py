@@ -26,8 +26,7 @@ if __name__ == "__main__":
                                                             "when processing large input data that do not fit in "
                                                             "memory (default value 1000)")
     parser.add_argument("--output_file", required=False, help="The directory for the output file. If not specified, "
-                                                              "the output file will be created into the same directory "
-                                                              "with the input file.")
+                                                              "the output file will be created into the directory data/created_data.")
 
     args = parser.parse_args()
     print(args.text_column)
