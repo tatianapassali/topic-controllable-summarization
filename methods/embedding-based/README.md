@@ -18,7 +18,7 @@ python3 run_summarization.py \
     --predict_with_generate \
 ```
 
-*NOTE: Currently, the only model that is supported for summarization with topic embeddings is BART-large. You can adjust the architecture of other Transformers models similarly with [modelling_bart.py](methods/embedding-based/modelling_bart.py) file to add topic embeddings.*
+*NOTE: Currently, the only model that is supported for summarization with topic embeddings is BART-large. You can adjust the architecture of other Transformers models similarly with [modelling_bart.py](modelling_bart.py) file to add topic embeddings.*
 
 Note that this code requires a topic-assigned document collection in order to successfully fine-tune BART-large for topic-controllable summarization. The dataset that is used for this work uses as a basis the  CNN/DailyMail and can be found on [datasets directory](data/topic_dataset/topic_embeddings). We use the version 3.0.0. of CNN/DailyMail as provided from [Hugging Face hub](https://huggingface.co/datasets/cnn_dailymail).
 
