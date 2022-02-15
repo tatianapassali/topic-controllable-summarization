@@ -44,3 +44,10 @@ Summarize any text, by simply tagging words of interest
 >>> output = model.generate(input_ids)
 >>> print(tokenizer.decode(output[0])
 ```
+
+### License 
+This project is released under Apache 2.0 license.
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
