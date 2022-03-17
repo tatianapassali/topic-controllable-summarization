@@ -26,7 +26,7 @@ You can use the fine-tuned tagging-based model to generate topic-oriented summar
 
 First, install the transformers library:
 ```
-pip install transformers
+pip install transformers==4.11.0
 ```
 
 Download and load model from disk
