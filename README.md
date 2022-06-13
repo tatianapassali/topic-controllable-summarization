@@ -19,7 +19,8 @@ You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
 * Prepend formulation
-* 
+
+
 ### Get the data 
 
 You can download the topic-assigned dataset based on CNN/DailyMail dataset [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing).
