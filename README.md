@@ -11,14 +11,12 @@ To fine-tune and evaluate BART-large model with embedding-based formulation, mov
 
 To fine-tune and evaluate any model with tagging-based formulation, move to the tagging-based directory. 
 
-### Prepend-based formulation
-(Under construction)
-
 ### Loading the models 
 You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
-* Prepend formulation
+* [Prepend-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
+* [Prepend and Tagging-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
 
 
 ### Get the data 
