@@ -1,7 +1,7 @@
 # topic-controllable-summarization
 Code for topic-controllable summarization
 
-This repository contains code for paper: Topic-controllable Abstractive Summarization
+This repository contains code for paper: Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization
 
 ### Embedding-based formulation
 
@@ -11,13 +11,15 @@ To fine-tune and evaluate BART-large model with embedding-based formulation, mov
 
 To fine-tune and evaluate any model with tagging-based formulation, move to the tagging-based directory. 
 
+### Prepend-based formulation
+(Under construction)
+
 ### Loading the models 
 You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
 * Prepend formulation
-* Prepend + Tagging - based formulation
-
+* 
 ### Get the data 
 
 You can download the topic-assigned dataset based on CNN/DailyMail dataset [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing).
