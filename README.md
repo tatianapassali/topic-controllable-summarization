@@ -3,15 +3,24 @@ Code for topic-controllable summarization
 
 This repository contains code for paper: [Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization](https://arxiv.org/abs/2206.04317)
 
-### Control topic using topic embeddings
+## Requirements
+
+`datasets==1.0.1`\
+`nltk==3.5`\
+`numpy==1.19.2`\
+`pandas==1.1.3`\
+`torch==1.8.1`\
+`transformers==4.11.0`
+
+## Topic Embeddings 
 
 To fine-tune and evaluate BART-large model with embedding-based formulation, move to the embedding-based directory.
 
-### Control topic using control tokens
+## Control Tokens
 
 To fine-tune and evaluate any model with tagging-based formulation, move to the tagging-based directory. 
 
-### Loading the models 
+## Loading the models 
 You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
@@ -19,12 +28,12 @@ You can download the model checkpoints here:
 * [Prepend and tagging-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
 
 
-### Get the data 
+## Get the data 
 
 You can download the topic-assigned dataset based on CNN/DailyMail dataset [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing).
 
 
-### Generating topic-oriented summaries 
+## Generating topic-oriented summaries 
 You can use the fine-tuned tagging-based model to generate topic-oriented summaries.
 
 First, install the transformers library:
@@ -48,7 +57,7 @@ Summarize any text, by simply tagging words of interest
 >>> print(tokenizer.decode(output[0])
 ```
 
-### License 
+## License 
 This project is released under Apache 2.0 license.
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
