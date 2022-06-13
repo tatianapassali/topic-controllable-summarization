@@ -3,11 +3,11 @@ Code for topic-controllable summarization
 
 This repository contains code for paper: [Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization](https://arxiv.org/abs/2206.04317)
 
-### Embedding-based formulation
+### Control topic using topic embeddings
 
 To fine-tune and evaluate BART-large model with embedding-based formulation, move to the embedding-based directory.
 
-### Taggging-based Formulation
+### Control topic using control tokens
 
 To fine-tune and evaluate any model with tagging-based formulation, move to the tagging-based directory. 
 
