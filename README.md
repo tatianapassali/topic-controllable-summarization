@@ -13,8 +13,10 @@ To fine-tune and evaluate any model with tagging-based formulation, move to the 
 
 ### Loading the models 
 You can download the model checkpoints here:
-* [Embedding-based formulation]([https://drive.google.com/drive/folders/1KOOZj-jp1vLtWc_bzpDzIHacCJnXpNRV?usp=sharing](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing))
-* [Tagging-based formulation]([https://drive.google.com/drive/folders/1na7fVx7o0cuj7GIrmEmaMGcqwSvTyLWV?usp=sharing])
+* [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
+* [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
+* Prepend formulation
+* Prepend + Tagging - based formulation
 
 ### Get the data 
 
