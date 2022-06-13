@@ -16,7 +16,7 @@ You can download the model checkpoints here:
 * [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
 * [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
 * [Prepend-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
-* [Prepend and Tagging-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
+* [Prepend and tagging-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
 
 
 ### Get the data 
