@@ -1,7 +1,7 @@
 # topic-controllable-summarization
 Code for topic-controllable summarization
 
-This repository contains code for paper: [Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization](https://arxiv.org/abs/2206.04317)
+This repository contains code for paper: Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization
 
 ## Requirements
 
