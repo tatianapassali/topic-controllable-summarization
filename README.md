@@ -22,15 +22,15 @@ To fine-tune and evaluate any model with tagging-based formulation, move to the 
 
 ## Loading the models 
 You can download the model checkpoints here:
-* [Embedding-based formulation](https://drive.google.com/drive/folders/157Na8ZcIIwyL9mHHyD5HpUvKCCechBlw?usp=sharing)
-* [Tagging-based formulation](https://drive.google.com/drive/folders/1UACtBBBnUWtUIEX5HNrEciTx_iMGkrcB?usp=sharing)
-* [Prepend-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
-* [Prepend and tagging-based formulation](https://drive.google.com/drive/folders/1iI4EnAk6n7LSiP8yFIGqiPJtLC8vkYLi?usp=sharing)
+* [Embedding-based formulation](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/EQuf0z9DiBpJlVDl6BJayy8By4oXGHmYD1fG1MqZs3YsxA?e=tIYkWY)
+* [Tagging-based formulation](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/EQQDVckMfP5AkeVdCVSmyEkBC8BlJbvvbKd9ZMpmY6gypA?e=g7wBLo)
+* [Prepend-based formulation](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/ESofGhUEXmhNgUHyEuxq0cMBR1Bism5qmNkmp1jBtZdsvw?e=NnVUhv)
+* [Prepend and tagging-based formulation](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/EegP4M3cbHtNqLF7gglFIToBfIPNEzcguhdoBk8GePJTWg?e=TaWCEl)
 
 
 ## Get the data 
 
-You can download the topic-assigned dataset based on CNN/DailyMail dataset [here](https://drive.google.com/drive/folders/1j7ZHsza0kyo5QlB2b7_UH_aWEaBNEbPR?usp=sharing).
+You can download the topic-assigned dataset based on CNN/DailyMail dataset (data directory) [here](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/EQuf0z9DiBpJlVDl6BJayy8By4oXGHmYD1fG1MqZs3YsxA?e=tIYkWY) and [here](https://aristotleuniversity-my.sharepoint.com/:u:/g/personal/scpassali_office365_auth_gr/EfoWdJU_uLdHtuQDre6WXWABISQAF15-1HpOcQSrQD6J6A?e=KRe8Z9).
 
 
 ## Generating topic-oriented summaries 
